@@ -1,8 +1,7 @@
 {
-    "name": "angular4-shopping-cart-application",
+    "name": "Angular4-Tutorial-Application",
     "version": "0.0.0",
     "license": "MIT",
-    "angular-cli": {},
     "scripts": {
         "ng": "ng",
         "start": "ng serve",

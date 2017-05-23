@@ -1,10 +1,10 @@
-import { Angular4TutorialApplicationPage } from './app.po';
+import { NewCliPage } from './app.po';
 
-describe('angular4-tutorial-application App', function() {
-  let page: Angular4TutorialApplicationPage;
+describe('new-cli App', () => {
+  let page: NewCliPage;
 
   beforeEach(() => {
-    page = new Angular4TutorialApplicationPage();
+    page = new NewCliPage();
   });
 
   it('should display message saying app works', () => {
